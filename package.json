@@ -59,5 +59,10 @@
     "anthropic",
     "t3"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pingdotgg/t3code",
+    "fork": true
+  }
 }
