@@ -64,5 +64,11 @@
     "type": "git",
     "url": "https://github.com/pingdotgg/t3code",
     "fork": true
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all"
   }
 }
